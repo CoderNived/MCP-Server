@@ -1,0 +1,20 @@
+{
+  "name": "mcp_server",
+  "version": "1.0.0",
+  "description": "mcp_server",
+  "homepage": "https://github.com/CoderNived/MCP-Server#readme",
+  "bugs": {
+    "url": "https://github.com/CoderNived/MCP-Server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderNived/MCP-Server.git"
+  },
+  "license": "ISC",
+  "author": "Nived Shenoy",
+  "type": "commonjs",
+  "main": "mcp_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

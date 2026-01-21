@@ -1,6 +1,5 @@
 def main():
-    # Initialize and run the server
-    mcp.run(transport="stdio")
+    print("Hello from weather!")
 
 
 if __name__ == "__main__":
